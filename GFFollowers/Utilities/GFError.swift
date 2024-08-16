@@ -1,8 +1,8 @@
 //
-//  ErrorMessage.swift
+//  GFError.swift
 //  GFFollowers
 //
-//  Created by Sean Lee on 8/9/24.
+//  Created by Sean Lee on 8/16/24.
 //
 
 import Foundation
