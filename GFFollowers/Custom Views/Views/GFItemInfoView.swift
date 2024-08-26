@@ -64,10 +64,10 @@ class GFItemInfoView: UIView {
       titleLabel.text         = "Public Gists"
     case .followers:
       symbolImageView.image   = UIImage(systemName: SFSymbols.followers)
-      titleLabel.text         = "Public Followers"
+      titleLabel.text         = "Followers"
     case .following:
       symbolImageView.image   = UIImage(systemName: SFSymbols.following)
-      titleLabel.text         = "Public Following"
+      titleLabel.text         = "Following"
     }
     
     countLabel.text           = String(count)
